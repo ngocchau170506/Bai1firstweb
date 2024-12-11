@@ -1,0 +1,24 @@
+/* EXTERNAL CSS/STYLE SHEET */
+/* h1{color:red;}
+h2 {
+    font-size: small;
+    color:brown;
+}  */
+ /* .font-small{
+    font-size: small;
+    color:red;
+ } */
+ .italic {
+    font-style: italic;
+  }
+
+  body {
+    padding-left: 400px;
+    padding-right: 400px;
+  }
+  .strong{
+    font-weight: bold;
+  }
+  .font {
+    font-family: arial;
+}
